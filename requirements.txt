@@ -1,0 +1,11 @@
+python-dotenv
+pandas
+streamlit
+langchain
+langchain-community
+langchain-classic
+langchain-core
+langchain-cohere
+langgraph
+faiss-cpu
+cohere
